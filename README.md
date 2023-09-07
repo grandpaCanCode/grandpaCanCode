@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tuffMade
+- 👋 Hi, I’m Mason
 - 👀 I’m interested in writing awesome code.
 - 🌱 Knowledge of java, javascript, html, css, SharePoint Framework, and data analytics.
 - 💞️ I’m looking to collaborate on codewars.
