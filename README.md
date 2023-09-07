@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tuffMade
 - 👀 I’m interested in writing awesome code.
-- 🌱 I’m currently learning java, javascript, .NET, C#, html, css
-- 💞️ I’m looking to collaborate on codewars
+- 🌱 Knowledge of java, javascript, html, css, SharePoint Framework, and data analytics.
+- 💞️ I’m looking to collaborate on codewars.
 - 📫 How to reach me ...
 
 <!---
