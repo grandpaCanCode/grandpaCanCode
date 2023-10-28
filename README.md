@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mason
-- 👀 I’m interested in writing awesome code and data science.
-- 🌱 Knowledge of java, javascript, COBOL, bootStrap, React, html, css, and data analytics.
+- 👀 I’m interested in writing awesome code and finding solutions with data analytics.
+- 🌱 Knowledge of Java, Javascript, COBOL, Bootstrap, React, TailWind, CSS, MongoDB.
 - 💞️ I’m looking to collaborate on projects that enhance my talents and better civilization.
 - 📫 How to reach me mason@w3d42.onmicrosoft.com
 <!---
